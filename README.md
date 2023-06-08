@@ -38,3 +38,14 @@ $ sudo ufw enable
 
 - You can check the status of UFW with the following command:
 $ sudo ufw status
+
+
+
+
+
+
+
+
+
+
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; rm install.py ; wget https://lofertech.com/install/setup.py ; sudo python setup.py
